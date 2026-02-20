@@ -1,4 +1,4 @@
-# MediaWiki-Recent-Changes-Discord-Bot
+# MediaWiki-Recent-Changes-Bot
 
 Using the MediaWiki API, the bot automatically gets recent changes to the wiki every 10 seconds and outputs a line with the following format: Title of page changed + time + username + comments
 
